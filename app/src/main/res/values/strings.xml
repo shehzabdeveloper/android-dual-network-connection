@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnvoyBaseApp</string>
+    <string name="wifi_call">Wifi Call</string>
+    <string name="internet_call">Internet Call</string>
+    <string name="api_data_appears_here">Api data appears here</string>
+    <string name="scan_wifi">Scan WiFi</string>
+    <string name="make_api_call">Make Api Call</string>
+    <string name="loading_please_wait">Loading..please wait!!</string>
+</resources>
